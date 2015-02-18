@@ -1,0 +1,9 @@
+{
+  "name": "Chattr",
+  "version": "0.1.0",
+  "description": "A real time chatting app. Playing around with node js"
+  "dependencies": {
+    "http": "0.0.0"
+  }
+  "author": "Jason Cheng"
+}
