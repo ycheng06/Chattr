@@ -1,9 +1,15 @@
 {
   "name": "Chattr",
   "version": "0.1.0",
-  "description": "A real time chatting app. Playing around with node js"
+  "description": "A real time chatting app. Playing around with node js",
   "dependencies": {
-    "http": "0.0.0"
-  }
+    "ejs": "^2.2.4",
+    "express": "^4.11.2",
+    "socket.io": "^1.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ycheng06/Chattr.git"
+  },
   "author": "Jason Cheng"
 }
