@@ -2,6 +2,7 @@
   "name": "Chattr",
   "version": "0.1.0",
   "description": "A real time chatting app. Playing around with node js",
+  "main": "app.js"
   "dependencies": {
     "ejs": "^2.2.4",
     "express": "^4.11.2",
